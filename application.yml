@@ -27,7 +27,7 @@ eureka:
 spring:
   profiles: beta
   application: 
-    name: microcloud-config-eureka-client1
+    name: microcloud
 server:
   port: 7001
 security:
